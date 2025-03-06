@@ -1,0 +1,70 @@
+{
+  "@@locale": "es",
+  "error_loading_data": "Error al cargar los datos",
+  "@error_loading_data": {
+     "description": "Error al cargar los datos"
+  },
+  "success": "Éxito: {message}",
+    "@success": {
+       "description": "Mensaje de éxito genérico",
+        "placeholders": {
+            "message": {
+                "type": "String"
+            }
+        }
+    },
+  "network_error": "Error de red: {message}",
+    "@network_error": {
+         "description": "Error de red genérico",
+         "placeholders": {
+             "message": {
+                 "type": "String"
+             }
+         }
+    },
+  "json_error": "Error de formato JSON: {message}",
+    "@json_error": {
+         "description": "Error de formato JSON genérico",
+         "placeholders": {
+             "message": {
+                 "type": "String"
+             }
+         }
+    },
+  "unexpected_error": "Error inesperado: {message}",
+    "@unexpected_error": {
+         "description": "Error inesperado genérico",
+         "placeholders": {
+             "message": {
+                 "type": "String"
+             }
+         }
+    },
+  "bad_request": "Solicitud incorrecta: {message}",
+    "@bad_request": {
+         "description": "Error de solicitud incorrecta genérico",
+         "placeholders": {
+             "message": {
+                 "type": "String"
+             }
+         }
+    },
+  "unauthorized": "No autorizado: {message}",
+    "@unauthorized": {
+         "description": "Error de no autorizado genérico",
+         "placeholders": {
+             "message": {
+                 "type": "String"
+             }
+         }
+    },
+  "server_error": "Error del servidor: {message}",
+    "@server_error": {
+         "description": "Error del servidor genérico",
+         "placeholders": {
+             "message": {
+                 "type": "String"
+             }
+         }
+    }
+}

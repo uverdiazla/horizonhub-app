@@ -1,0 +1,70 @@
+{
+  "@@locale": "en",
+  "error_loading_data": "Error loading data",
+    "@error_loading_data": {
+      "description": "Error service message when data loading fails"
+    },
+  "success": "Success: {message}",
+    "@success": {
+        "description": "Generic success message",
+        "placeholders": {
+            "message": {
+                "type": "String"
+            }
+        }
+    },
+  "network_error": "Network error: {message}",
+    "@network_error": {
+        "description": "Generic network error message",
+        "placeholders": {
+            "message": {
+                "type": "String"
+            }
+        }
+    },
+  "json_error": "JSON format error: {message}",
+    "@json_error": {
+        "description": "Generic JSON format error message",
+        "placeholders": {
+            "message": {
+                "type": "String"
+            }
+        }
+    },
+  "unexpected_error": "Unexpected error: {message}",
+    "@unexpected_error": {
+        "description": "Generic unexpected error message",
+        "placeholders": {
+            "message": {
+                "type": "String"
+            }
+        }
+    },
+  "bad_request": "Bad Request: {message}",
+    "@bad_request": {
+        "description": "Generic bad request error message",
+        "placeholders": {
+            "message": {
+                "type": "String"
+            }
+        }
+    },
+  "unauthorized": "Unauthorized: {message}",
+    "@unauthorized": {
+        "description": "Generic unauthorized error message",
+        "placeholders": {
+            "message": {
+                "type": "String"
+            }
+        }
+    },
+  "server_error": "Server Error: {message}",
+    "@server_error": {
+        "description": "Generic server error message",
+        "placeholders": {
+            "message": {
+                "type": "String"
+            }
+        }
+    }
+}
